@@ -1,0 +1,11 @@
+print(False,)
+print("benali mohamed hicham")
+print(20)
+print(10*"benali mohamed hicham") #ضرب الكلمة 10 مرات 
+print("benali\nmohamed\n") #تفرقة بين اسماء باسطر 
+print("test1",end="") # يتم جمع الكلمة مع الكلمة تحتها
+print("test2")
+print("test1","test2","test3","test4",sep="|") #نضع رموز بين الكلمات
+#اتمنى التوفيق
+
+
